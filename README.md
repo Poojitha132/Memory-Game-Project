@@ -1,4 +1,4 @@
-# memory card game
+# Memory Game Project
 
 ## Table of Contents
 
